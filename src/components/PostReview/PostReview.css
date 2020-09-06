@@ -1,0 +1,11 @@
+
+.post-container{
+ display: flex;
+ margin: 0 5%;
+}
+.posts{
+  width: 30%;
+  margin: 20px;
+  align-items: center;
+
+}
